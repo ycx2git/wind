@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wind"
+  id="myeclipse.1483521942929"
+  context-root="/wind"
+  j2ee-spec="5.0"
+  archive="wind.war">
+  <attributes>
+    <attribute name="webrootdir" value="webapp" />
+  </attributes>
+</project-module>
+
